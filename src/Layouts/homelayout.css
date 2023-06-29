@@ -1,0 +1,6 @@
+.demo-logo > img{
+    object-fit: contain;
+    height: 5rem;
+    top: 1px;
+    position: fixed;
+}
